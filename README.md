@@ -23,4 +23,4 @@ Developed to provide custom features as requested by our server members. ✨
 
 ---
 
-Feel free to suggest any other commands or improvements you'd like to see in the CodexDiscordBot! Let's make our Discord server even better together! 🤗
+Feel free to suggest any other commands or improvements you'd like to see in the CodexDiscordBot! Let's make your Discord server even better together! 🤗
